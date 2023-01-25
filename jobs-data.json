@@ -1,0 +1,68 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Web Developer Internship",
+      "location": "Banglore",
+      "type": "Internship",
+      "description": "We are looking for a web developer intern to join our team and help us build and maintain our website. The ideal candidate should have experience with HTML, CSS, and JavaScript.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 2,
+      "title": "Full-Stack Developer",
+      "location": "Manglore",
+      "type": "Full Time",
+      "description": "We are seeking a full-stack developer to join our team and work on building and maintaining our web applications. The ideal candidate should have experience with JavaScript, Node.js, and React.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 3,
+      "title": "Hybrid Mobile App Developer",
+      "location": "Chennai",
+      "type": "Hybrid",
+      "description": "We are in need of a hybrid mobile app developer to help us build and maintain our mobile apps. The ideal candidate should have experience with React Native and have a good understanding of mobile app development.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 4,
+      "title": "Data Engineer",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "description": "We are looking for a data engineer to join our team and help us design and implement data pipelines. The ideal candidate should have experience with SQL and Python.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 5,
+      "title": "Front-End Developer",
+      "location": "Mumbai",
+      "type": "Full Time",
+      "description": "We are seeking a front-end developer to join our team and work on building and maintaining our web applications. The ideal candidate should have experience with HTML, CSS, and JavaScript.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 6,
+      "title": "Software Engineer",
+      "location": "Pune",
+      "type": "Full Time",
+      "description": "We are looking for a software engineer to join our team and help us design, develop and maintain our software applications. The ideal candidate should have experience with Java and experience with Agile development.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 7,
+      "title": "DevOps Engineer",
+      "location": "Delhi",
+      "type": "Full Time",
+      "description": "We are in need of a DevOps engineer to help us automate and maintain our software delivery pipeline. The ideal candidate should have experience with AWS and have a good understanding of containerization and orchestration.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 8,
+      "title": "Data Analyst",
+      "location": "Kolkata",
+      "type": "Full Time",
+      "description": "We are seeking a data analyst to join our team and help us analyze and interpret data. The ideal candidate should have experience with SQL and Python and have a good understanding of statistics.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    }
+  ]
+}

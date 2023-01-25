@@ -1,0 +1,196 @@
+body {
+  background-color: #050d21;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #152c68, #7ea7f1);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(190, 225, 231);
+}
+
+header {
+  background-color: #1a67f8;
+  padding: 1em;
+  border-radius: 0.7em;
+}
+
+header form {
+  display: inline-block;
+}
+
+.search-container {
+  width: 80%; /*set width of container*/
+  margin: 0 auto; /*center the container horizontally*/
+  text-align: left; /*align text inside the container to the left*/
+}
+
+.search-container form {
+  display: flex; /*display form elements in a row*/
+  align-items: center; /*vertically align form elements in the center*/
+  margin-top: 0.4em;
+}
+
+.search-container label,
+.search-container input[type="text"],
+.search-container button {
+  margin-right: 1em; /*add some space between form elements*/
+  font-size: 1em; /*set font size of form elements*/
+}
+
+.search-container input[type="text"] {
+  padding: 0.4em; /*add some padding to the text input fields*/
+  width: 40%; /*set width of text input fields*/
+  border-radius: 0.6em;
+}
+
+.search-container button {
+  background-color: #050d21;
+  color: #c9d5ee;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background-color: #07a184;
+}
+
+*/ header nav {
+  display: inline-block;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+header nav ul li {
+  display: inline-block;
+}
+
+header nav ul li a {
+  color: #c9d5ee;
+  text-decoration: none;
+  padding: 0 1em;
+}
+
+header nav ul li a:hover {
+  color: #050d21;
+  background-color: #c9d5ee;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+section {
+  padding: 1em;
+}
+
+section h2 {
+  color: #1a67f8;
+}
+
+section ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+section ul li {
+  margin-bottom: 1em;
+}
+
+section a {
+  color: #050d21;
+}
+
+footer {
+  background-color: #1a67f8;
+  padding: 1em;
+  color: #c9d5ee;
+  border-radius: 0.5em;
+}
+
+/* // css for features jobs */
+#featured-jobs {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#featured-jobs-list {
+  list-style: none;
+  padding: 0;
+}
+
+#featured-jobs-list li {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #f9f9f9;
+  border: gainsboro;
+  border-radius: 0.5rem;
+  box-shadow: 0px 0px 5px 0px rgba(81, 79, 79, 0.75);
+}
+
+.apply-button {
+  display: block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #1e90ff;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.h3 p {
+  color: #050d21;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 600px) {
+  header form,
+  header nav {
+    display: block;
+    text-align: center;
+  }
+  header form {
+    margin-bottom: 1em;
+  }
+}
+
+.apply-button {
+  background-color: #1a67f8; /* change this to your desired color */
+  color: #fff; /* make the text white */
+  padding: 0.5em 1em; /* add some padding */
+  border-radius: 0.6em; /* add rounded corners */
+  text-decoration: none; /* remove the underline */
+  display: inline-block; /* make the button an inline-block element */
+}
+
+.apply-button:hover {
+  background-color: #07a184; /* change this to your desired color */
+}
+
+@media only screen and (max-width: 600px) {
+  /* target screen widths up to 600px */
+  .search-container {
+    width: 100%; /* set container to full width of screen */
+  }
+
+  .search-container input[type="text"] {
+    width: 80%; /* reduce width of text input fields */
+  }
+}
