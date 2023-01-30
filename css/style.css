@@ -5,20 +5,18 @@ body {
   text-align: center;
 }
 
+.logo img {
+  height: 7em;
+  margin-right: 10px;
+}
+
 header h1 {
-  font-size: 70px;
-  font-weight: 600;
-  background-image: linear-gradient(to left, #152c68, #7ea7f1);
-  color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: rgb(190, 225, 231);
+  display: inline-block;
 }
 
 header {
   background-color: #1a67f8;
-  padding: 1em;
+  padding: 0.2em;
   border-radius: 0.7em;
 }
 
@@ -43,6 +41,7 @@ header form {
 .search-container button {
   margin-right: 1em; /*add some space between form elements*/
   font-size: 1em; /*set font size of form elements*/
+  font-weight: bolder;
 }
 
 .search-container input[type="text"] {
