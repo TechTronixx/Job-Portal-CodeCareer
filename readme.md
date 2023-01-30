@@ -1,4 +1,4 @@
-# Job-Portal-CodeCareer
+# Work Wise | Job Portal 
 
 A simple job portal application that allows users to view and search for job listings, and allows employers to submit new job listings.
 
@@ -22,4 +22,4 @@ The application uses JavaScript to fetch and display the job listings, and to ha
 
 ## Usage
 
-The Job-Portal-CodeCareer application is a simple and easy-to-use job portal for both job seekers and employers. Job seekers can view and search for job listings, and employers can submit new job listings. The application can be easily customized to fit the needs of any job portal website.
+The application is a simple and easy-to-use job portal for both job seekers and employers. Job seekers can view and search for job listings, and employers can submit new job listings. The application can be easily customized to fit the needs of any job portal website.
