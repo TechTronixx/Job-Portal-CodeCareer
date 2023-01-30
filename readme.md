@@ -1,4 +1,4 @@
-# Job-Portal-CodeCareer
+# Work Wise | Job Portal 
 
 A simple job portal application that allows users to view and search for job listings, and allows employers to submit new job listings.
 
