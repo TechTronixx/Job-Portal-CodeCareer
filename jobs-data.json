@@ -63,6 +63,62 @@
       "type": "Full Time",
       "description": "We are seeking a data analyst to join our team and help us analyze and interpret data. The ideal candidate should have experience with SQL and Python and have a good understanding of statistics.",
       "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 9,
+      "title": "Back-End Developer",
+      "location": "Manglore",
+      "type": "Full Time",
+      "description": "We are looking for a back-end developer to join our team and help us build and maintain our web applications. The ideal candidate should have experience with Node.js and have a good understanding of REST APIs.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 10,
+      "title": "Tech Lead",
+      "location": "New York",
+      "type": "Full Time",
+      "description": "We are looking for a seasoned tech lead to join our team and help guide the development of our software projects. The ideal candidate should have a strong background in software development and be able to lead and motivate a team of developers.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 11,
+      "title": "AI Developer",
+      "location": "San Francisco",
+      "type": "Full Time",
+      "description": "We are seeking an AI developer to join our team and help build and maintain our AI-powered applications. The ideal candidate should have experience with machine learning frameworks such as TensorFlow and be familiar with Python.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 12,
+      "title": "Technical Architect",
+      "location": "London",
+      "type": "Full Time",
+      "description": "We are looking for a technical architect to join our team and help design and implement scalable technical solutions. The ideal candidate should have experience in software architecture and have a strong understanding of cloud technologies.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 13,
+      "title": "Senior Full-Stack Developer",
+      "location": "Berlin",
+      "type": "Full Time",
+      "description": "We are in search of a senior full-stack developer to join our team and help build and maintain our web applications. The ideal candidate should have experience with front-end and back-end technologies and be able to work with a team of developers.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 14,
+      "title": "Development Manager",
+      "location": "Paris",
+      "type": "Full Time",
+      "description": "We are seeking a development manager to join our team and help manage and oversee the development of our software projects. The ideal candidate should have experience leading a team of developers and have a strong understanding of software development processes.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
+    },
+    {
+      "id": 15,
+      "title": "HR",
+      "location": "Toronto",
+      "type": "Full Time",
+      "description": "We are looking for an HR professional to join our team and help manage and support our growing workforce. The ideal candidate should have experience in HR processes and be able to provide guidance and support to our employees.",
+      "apply_url": "https://www.jotform.com/form-templates/job-application"
     }
   ]
 }
