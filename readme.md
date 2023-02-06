@@ -18,7 +18,8 @@ The application uses JavaScript to fetch and display the job listings, and to ha
 
 ## Demo
 
-- Here is a link to a live demo of the application: Comming soon!
+- Here is a link to a live demo of the application: 
+[Here](https://workwisejobs.vercel.app/)
 
 ## Usage
 
